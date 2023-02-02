@@ -1,0 +1,73 @@
+/*
+ * Globals
+ */
+
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
+
+
+/*
+ * Base structure
+ */
+
+body {
+  
+}
+
+.cover-container {
+  max-width: 40em;
+}
+
+
+/*
+ * Header
+ */
+
+.nav-masthead .nav-link {
+  color: rgba(255, 255, 255, .5);
+  border-bottom: .25rem solid transparent;
+
+}
+}
+
+.nav-masthead 
+.nav-link:hover,
+.nav-masthead .nav-link:focus {
+  border-bottom-color: rgba(255, 255, 255, .25);
+}
+
+.nav-masthead .nav-link + .nav-link {
+  margin-left: 1rem; text-orientation: center;
+}
+
+.nav-masthead .active {
+  color: #fff;
+  border-bottom-color: #fff;
+  ;
+
+}
+
+.nav-link {width: 50% 
+  height: 100%;
+}
+
+
+.px-3 {width: 100%}
+
+.float-md-start {font-size: 280%;
+ 100%;
+
+}
+
+.nav-link {font-size: 95%;
+; property: visibility; py-4 px-5
+
+}
+
+.nav-masthead {font-size:130%; }
